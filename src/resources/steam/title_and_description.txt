@@ -1,0 +1,24 @@
+TITLE
+-----
+
+Sound Effects: Silentium
+
+
+DESCRIPTION
+-----------
+
+[h1]Mod Description[/h1]
+_TODO_
+
+[h1]Ironman[/h1]
+This mod is Ironman compatible.
+
+[h1]Additional Mods[/h1]
+This mod works best in conjunction with the following mods:
+[list]
+[*] Sound Effects: Alternatio
+[/list]
+
+[h1]Miscellaneous[/h1]
+_TODO_
+
