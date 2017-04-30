@@ -8,17 +8,54 @@ DESCRIPTION
 -----------
 
 [h1]Mod Description[/h1]
-_TODO_
+This mod mutes some of the ambient sounds effects that I found to be disturbing while listening to music.
 
-[h1]Ironman[/h1]
-This mod is Ironman compatible.
+The following sound effects will be silenced by this mod:
+[list]
+[*] Character Browser 
+[*] Character Event 
+[*] Character View 
+[*] City Ambience Mideast 
+[*] City Ambience West 
+[*] Council View
+[*] Courtview 
+[*] Devil Worshippers Interface
+[*] Diplomacy View 
+[*] Factions View 
+[*] Land Battle Archery
+[*] Land Battle Sword
+[*] Law View 
+[*] Militaryview 
+[*] Monastic Orders Indian Interface
+[*] Monastic Orders Interface
+[*] Naval Battle Splash
+[*] Naval Battle Sword
+[*] Nomad View 
+[*] Plot View 
+[*] Religion View 
+[*] Republic View 
+[*] Secret Cults Interface
+[*] Tech View 
+[*] Title View 
+[/list]
+
+[h1]Ironman and Achievements[/h1]
+Ironman: yes
+Achievements: yes
 
 [h1]Additional Mods[/h1]
-This mod works best in conjunction with the following mods:
+I use this mod in addition to the following mod:
 [list]
 [*] Sound Effects: Alternatio
 [/list]
 
-[h1]Miscellaneous[/h1]
-_TODO_
+
+
+
+
+
+
+
+
+
 
