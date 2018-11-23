@@ -12,36 +12,49 @@ This mod mutes some of the ambient sounds effects that I found to be disturbing 
 
 The following sound effects will be silenced by this mod:
 [list]
-[*] Character Browser 
-[*] Character Event 
-[*] Character View 
-[*] City Ambience Mideast 
-[*] City Ambience West 
+[*] Assassins Interface
+[*] Bloodline
+[*] Character Browser
+[*] Character Event
+[*] Character View
+[*] China Interaction Interface
+[*] City Ambience Mideast
+[*] City Ambience West
 [*] Council View
-[*] Courtview 
+[*] Courtview
 [*] Devil Worshippers Interface
-[*] Diplomacy View 
-[*] Factions View 
+[*] Diplomacy View
+[*] Dynastytree
+[*] Factions View
+[*] Hermetic Society Interface
 [*] Land Battle Archery
 [*] Land Battle Sword
-[*] Law View 
-[*] Militaryview 
+[*] Law View
+[*] Militaryview
 [*] Monastic Orders Indian Interface
 [*] Monastic Orders Interface
 [*] Naval Battle Splash
 [*] Naval Battle Sword
-[*] Nomad View 
-[*] Plot View 
-[*] Religion View 
-[*] Republic View 
+[*] Nomad View
+[*] Plot View
+[*] Religion View
+[*] Republic View
+[*] Rowdy Banter
 [*] Secret Cults Interface
-[*] Tech View 
-[*] Title View 
+[*] Tech View
+[*] Title View
+[*] Warrior Lodge
 [/list]
 
 [h1]Ironman and Achievements[/h1]
 Ironman: yes
 Achievements: yes
+
+[h1]Manual Download[/h1]
+Release package and source code:
+[list]
+[*] [url=https://github.com/olympian-mods/crusader_kings_2-sound_effects_silentium/releases/tag/1.1.0]v1.1.0 for CK II 3.0[/url]
+[/list]
 
 [h1]Additional Mods[/h1]
 I use this mod together with the following mod:
